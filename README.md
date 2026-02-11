@@ -19,8 +19,8 @@ A growing e-commerce brand wants to know:
 
 ## 📈 Model Performance
 After training the model on historical data, we achieved the following results:
-* **R² Score:** 0.92 (The model explains 92% of sales variance)
-* **Mean Absolute Error (MAE):** $154.20
+* **R² Score:** 0.91 (The model explains 91% of sales variance)
+* **Mean Absolute Error (MAE):** $162.20
 * **ROI Coefficient:** 5.5 (Every $1 spent on ads yields $5.50 in revenue)
 
 ## 📁 Project Structure
